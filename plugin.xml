@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plugin>
+	<name>Snow Fall Effect</name>
+	<key>snowfall</key>
+	<description>Thinking about Decemeber and Christmas? Add a snowfall effect to your site. Works with Oxwall 1.4 and 1.5 version.</description>
+        <author>Purusothaman Ramanujam</author>
+        <authorEmail>purushoth.r@gmail.com</authorEmail>
+	<authorUrl>http://www.plugins.iYaffle.com</authorUrl>
+	<developerKey>1ee49389d3159fa543f7f3333a5c5a91</developerKey>
+        <build>1</build>
+        <copyright>(C) 2012 Purusothaman Ramanujam. All rights reserved.</copyright>
+	<license>http://www.iYaffle.com</license>
+        <licenseUrl>http://www.plugins.iYaffle.com</licenseUrl>
+</plugin>
